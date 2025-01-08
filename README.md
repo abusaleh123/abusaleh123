@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Here’s the updated version reflecting your learning journey:<br><br>✨ Creating bugs since: 2024<br>📚 I'm currently learning: Web development with JavaScript, React, and MongoDB<br>🎯 Goals: To become a proficient full-stack developer and build impactful web applications<br>🎲 Fun fact: I enjoy debugging code as much as building new features!</p>
+<p align="left">Hi! I'm Abu Saleh Noor, a passionate web developer from Pabna, Bangladesh. I am currently pursuing my studies at Govt. Edward College, Pabna. With a deep love for coding, I am constantly seeking to improve my skills and contribute to the tech community. My hobby is more than just a pastime—it's an attractive and ever-evolving journey into the world of coding. I enjoy solving complex problems and bringing ideas to life through code.<br><br> 🚀 Working on a Restaurant Management Website<br>🌐 Exploring Backend<br>🛫 Developing a Tourism Website</p>
 
 ###
 
@@ -79,5 +79,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abusaleh123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abusaleh123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h4 align="left">Feel free to connect with me for web development collaborations and projects!</h4>
 
 ###
