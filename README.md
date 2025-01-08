@@ -28,7 +28,7 @@
 
 <p align="left">Hi! I'm Abu Saleh Noor, a passionate web developer from Pabna, Bangladesh. I am currently pursuing my studies at Govt. Edward College, Pabna. With a deep love for coding, I am constantly seeking to improve my skills and contribute to the tech community. My hobby is more than just a pastime—it's an attractive and ever-evolving journey into the world of coding. I enjoy solving complex problems and bringing ideas to life through code.<br><br> 🚀 Working on a Restaurant Management Website<br>🌐 Exploring Backend<br>🛫 Developing a Tourism Website</p>
 
-###
+##
 
 <h2 align="left">Socials</h2>
 
@@ -43,7 +43,7 @@
   </a>
 </div>
 
-###
+##
 
 <h2 align="left">Skills</h2>
 
