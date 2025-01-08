@@ -32,7 +32,7 @@
 
 <h2 align="left">Socials</h2>
 
-######
+
 
 <div align="left">
   <a href="https://x.com/MdAbuSalehNoor1" target="_blank">
@@ -47,7 +47,7 @@
 
 <h2 align="left">Skills</h2>
 
-#######
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
