@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
- ![Alt text](https://github.com/abusaleh123/Chill-Gamer/blob/6e5a077e393e6740b9f5a5db8f9c68cb4e0bbde5/Screenshot%202025-01-08%20091108.png)
+  <img height="200" src="https://i.ibb.co.com/x33BrgM/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png"  />
 </div>
 
 ###
