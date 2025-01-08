@@ -35,7 +35,7 @@
 
 ##
 
-<h2 align="left">Skills</h2>
+<h2 align="center">Skills</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -59,7 +59,7 @@
 
 ##
 
-<h2 align="left">Github Stats</h2>
+<h2 align="center">Github Stats</h2>
 
 ###
 
@@ -71,7 +71,7 @@
 
 ##
 
-<h2 align="left">Socials</h2>
+<h2 align="center">Socials</h2>
 
 <div align="center">
   <a href="https://x.com/MdAbuSalehNoor1" target="_blank">
