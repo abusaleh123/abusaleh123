@@ -84,6 +84,6 @@
 
 ##
 
-<h4 align="left">Feel free to connect with me for web development collaborations and projects!</h4>
+<h4 align="center">Feel free to connect with me for web development collaborations and projects!</h4>
 
 ###
